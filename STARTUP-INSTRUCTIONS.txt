@@ -1,0 +1,26 @@
+First TIME:
+
+	In terminal:
+	"npm install -g typescript" <-- installs typescript
+	"npm install -g @angular/cli"  <-- installs angular on computer
+
+	In terminal navigate to:
+	D:\Users\Chase\Documents\Projects\angular\beginnerTut (or folder where you want to create project)
+	and type "ng new hello-world" to create a new angular project in a folder called "hello-world"
+
+	"cd hello-world" then do below steps to startup
+
+	
+	
+Every time startup:	
+
+	In terminal navigate to 
+	D:\Users\Chase\Documents\Projects\angular\beginnerTut\hello-world
+	and enter "ng serve" to startup server at localhost:4200
+
+
+To compile TypeScript to Javascript (not needed in angular, it's done by default):
+	in terminal window in folder with file, type "tsc main.ts"
+
+To exectute Javascript code:
+	in terminal window in folder with file, type "node main.js"
